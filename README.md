@@ -1,6 +1,7 @@
 Oliv Website Clone (Frontend Only)
 
 A fully responsive frontend clone inspired by the original Framer website template:
+
 Reference Website: https://oliv-template.framer.website/
 This project was recreated using only HTML and CSS to practice responsive web development, layout structuring, and modern UI implementation.
 
